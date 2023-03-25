@@ -29,7 +29,7 @@ Here are some of the projects that I have worked on:
 -->
 ### 📬 Contact Me
 
-If you're interested in working with me, please don't hesitate to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/lucasperretta/) or [Twitter](https://twitter.com/lucasperretta). Let's build something amazing together!
+If you're interested in working with me, please don't hesitate to reach out! You can send me an email at [lucasperretta@gmail.com](mailto:lucasperretta@gmail.com) find me on [LinkedIn](https://www.linkedin.com/in/lucasperretta/) or [Twitter](https://twitter.com/lucasperretta). Let's build something amazing together!
 
 <!--
 **lucasperretta/lucasperretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
