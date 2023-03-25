@@ -16,7 +16,7 @@ You can find my written artiles on my [Medium](https://medium.com/@lucasperretta
 
 - Programming Languages: Kotlin, Java, C++, JavaScript
 - Frameworks and Libraries: Android SDK and Jetpack, Retrofit, Moshi, Coil, Room
-- Tools and Technologies: Git, Android Studio, IntelliJ IDEA, Gradle, Firebase, Figma
+- Tools and Technologies: Git, Gradle, Figma, Firebase, Play Services
 
 <!--
 ### 🚀 My Projects
