@@ -10,7 +10,7 @@ I'm an experienced SR Android Developer, with 5 years of professional experience
 - Utilize modern software development practices and always strive to stay up-to-date with the latest industry trends and technologies.
 
 ### 📝 My Articles
-You can find my written artiles on my [Medium](https://medium.com/@lucasperretta) and [Personal Website](https://www.lucasperretta.net)! I write about Android development and Android in general and, all my articles are Open Source so that anyone interested can share their suggestions!
+You can find my written artiles on my [Medium](https://medium.com/@lucasperretta) and [Personal Website](https://www.lucasperretta.net)! I write about Android development and Android in general and, all my articles are [Open Source](https://github.com/lucasperretta/articles) so that anyone interested can share their suggestions!
 
 ### 🔧 My Skills
 
